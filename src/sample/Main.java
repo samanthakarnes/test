@@ -17,6 +17,8 @@ public class Main extends Application {
     }
    //testing out VCS
 
+    //now testing committing changes on one PC then opening on the other
+
 
     public static void main(String[] args) {
         launch(args);
