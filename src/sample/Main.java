@@ -15,7 +15,7 @@ public class Main extends Application {
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
     }
-    //just seeing if this shows up
+   //testing out VCS
 
 
     public static void main(String[] args) {
