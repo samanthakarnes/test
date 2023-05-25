@@ -15,6 +15,7 @@ public class Main extends Application {
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
     }
+    //just seeing if this shows up
 
 
     public static void main(String[] args) {
